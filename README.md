@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @KarthiKa9999
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning Data Analysis
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ykarthika999@gmail.com
 
 <!---
